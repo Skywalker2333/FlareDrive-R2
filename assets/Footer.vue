@@ -41,7 +41,7 @@ export default {
   data() {
     return {
       homeUrl: "https://cloud.guojam.fun/",
-      blogUrl: "https://www.guojam.fun/",
+      blogUrl: "http://guojam.fun/",
       githubUrl: "https://github.com/Skywalker2333",
       emailUrl: "mailto:guojam@guojam.fun"
     };
